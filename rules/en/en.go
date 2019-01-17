@@ -1,6 +1,6 @@
 package en
 
-import "github.com/olebedev/when/rules"
+import "github.com/demisto/when/rules"
 
 var All = []rules.Rule{
 	Weekday(rules.Override),
