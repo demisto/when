@@ -4,9 +4,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/olebedev/when"
-	"github.com/olebedev/when/rules"
-	"github.com/olebedev/when/rules/en"
+	"github.com/demisto/when"
+	"github.com/demisto/when/rules"
+	"github.com/demisto/when/rules/en"
 )
 
 func TestExactMonthDate(t *testing.T) {
